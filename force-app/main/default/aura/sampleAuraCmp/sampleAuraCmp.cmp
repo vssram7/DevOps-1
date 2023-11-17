@@ -1,0 +1,6 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
+<div class="slds-grid slds-wrap container">
+    <h1 style="text-align:center;padding:20px 0px 0px 0px;font-size:24px;">Simple SLDS Aura Component with welcome message</h1>
+    </div>
+    
+</aura:component>
