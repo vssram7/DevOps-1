@@ -6,6 +6,11 @@
         <field>Certification__c.Date_of_Completion__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>test__c.Description__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Certification__c-Certification Layout</layout>
     </layoutAssignments>
