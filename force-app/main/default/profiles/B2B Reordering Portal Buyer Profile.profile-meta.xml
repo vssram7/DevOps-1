@@ -12,6 +12,13 @@
     <layoutAssignments>
         <layout>student__c-student Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>test__c-Test Layout</layout>
+    </layoutAssignments>
+    <tabVisibilities>
+        <tab>test__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
     <userLicense>External Apps Login</userLicense>
     <userPermissions>
         <enabled>true</enabled>
