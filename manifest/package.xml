@@ -27,7 +27,7 @@
     <types>
         <members>*</members>
         <name>StaticResource</name>
-    </types>-->
+    </types>
      <types>
     <members>*</members>
     <name>CustomObject</name>
@@ -42,7 +42,14 @@
   <types>
         <members>*</members>
         <name>LightningComponentBundle</name>
-    </types>
-
+    </types>-->
+ <types>
+    <members>*</members>
+    <name>Flow</name>
+  </types>
+  <types>
+    <members>*</members>
+    <name>FlowDefinition</name>
+  </types>
     <version>58.0</version>
 </Package>
